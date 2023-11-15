@@ -1,2 +1,3 @@
-print ('salamaleykum')
+print
+
 
